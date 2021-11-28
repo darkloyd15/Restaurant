@@ -3,3 +3,5 @@ Software für ein Restaurant um, Bestellungen, Reservierungen und Personalplanun
 
 
 ## Teilnehmer an diesem Projekt:
+
+khaled kalo
